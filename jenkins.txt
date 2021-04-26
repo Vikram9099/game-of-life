@@ -1,1 +1,1 @@
-this is jenkins
+echo "${env.BRANCH_NAME}"
