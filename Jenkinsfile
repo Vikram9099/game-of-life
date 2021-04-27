@@ -1,6 +1,6 @@
 node {
     stage('SCM') {
-        git 'https://github.com/asquarezone/game-of-life.git'
+        git 'https://github.com/Vikram9099/game-of-life.git'
     }
     
     stage('Build & Package') {
